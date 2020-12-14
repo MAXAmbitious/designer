@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T08:39:48.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.1" etag="px5mdOrx5PU7bSjBmcHJ" type="github"><diagram id="p8ehaIom89HbBU7Ydi3z">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-14T08:53:38.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="9voI0S-NNnyUZ_bum6cA" version="14.0.1" type="github">
+  <diagram id="p8ehaIom89HbBU7Ydi3z" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z8vSst9rPsj52tGj9jcT-3" value="nginx负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8vSst9rPsj52tGj9jcT-4" target="z8vSst9rPsj52tGj9jcT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-4" value="nacos网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8vSst9rPsj52tGj9jcT-5" target="z8vSst9rPsj52tGj9jcT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-5" value="nacos网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="380" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-10" value="user-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-11" value="system-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="250" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-13" value="resource-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-14" value="project-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-15" value="exam-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="350" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-16" value="live-service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
