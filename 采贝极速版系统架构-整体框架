@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T09:11:48.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qo-qzzrmih89Gpj-MtPh" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T09:14:09.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ynRu7QSJ4o2fHetros7F" version="14.0.1" type="github">
   <diagram id="p8ehaIom89HbBU7Ydi3z" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-21" value="springcloud gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z8vSst9rPsj52tGj9jcT-24" target="z8vSst9rPsj52tGj9jcT-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-24" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="180" y="260" width="390" height="200" as="geometry" />
@@ -58,6 +61,9 @@
         <mxCell id="z8vSst9rPsj52tGj9jcT-44" value="nacos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="340" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8vSst9rPsj52tGj9jcT-46" target="z8vSst9rPsj52tGj9jcT-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-46" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="180" y="480" width="390" height="80" as="geometry" />
         </mxCell>
@@ -68,19 +74,19 @@
           <mxGeometry x="410" y="490" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-49" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="35" y="600" width="685" height="80" as="geometry" />
+          <mxGeometry x="32.5" y="600" width="685" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-50" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="610" width="110" height="60" as="geometry" />
+          <mxGeometry x="80" y="610" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-51" value="mongodb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="610" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-52" value="mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377.5" y="610" width="110" height="60" as="geometry" />
+          <mxGeometry x="400" y="610" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-53" value="es" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="610" width="110" height="60" as="geometry" />
+          <mxGeometry x="560" y="610" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
