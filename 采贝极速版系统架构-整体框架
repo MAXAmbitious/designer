@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T09:16:14.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="aunUidHdSXhXvHiF1qPw" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T09:18:16.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7JjnmWkHOZsp4wDPMZQN" version="14.0.1" type="github">
   <diagram id="p8ehaIom89HbBU7Ydi3z" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,19 +47,19 @@
           <mxGeometry x="489" y="400" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-40" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="69" y="180" width="120" height="400" as="geometry" />
+          <mxGeometry x="50" y="180" width="120" height="400" as="geometry" />
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-41" value="Hystrix容错限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="74" y="440" width="110" height="60" as="geometry" />
+          <mxGeometry x="55" y="440" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-42" value="cat监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="74" y="260" width="110" height="60" as="geometry" />
+          <mxGeometry x="55" y="260" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-43" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="639" y="180" width="120" height="400" as="geometry" />
+          <mxGeometry x="660" y="170" width="120" height="400" as="geometry" />
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-44" value="nacos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="644" y="360" width="110" height="60" as="geometry" />
+          <mxGeometry x="665" y="350" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z8vSst9rPsj52tGj9jcT-46" target="z8vSst9rPsj52tGj9jcT-49">
           <mxGeometry relative="1" as="geometry" />
@@ -87,6 +87,18 @@
         </mxCell>
         <mxCell id="z8vSst9rPsj52tGj9jcT-53" value="es" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="599" y="630" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-61" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" source="z8vSst9rPsj52tGj9jcT-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189" y="430" as="sourcePoint" />
+            <mxPoint x="220" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z8vSst9rPsj52tGj9jcT-63" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609" y="379.5" as="sourcePoint" />
+            <mxPoint x="659" y="379.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
