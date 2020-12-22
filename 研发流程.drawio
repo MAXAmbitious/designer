@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T09:03:34.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tT4trRyFGbs1_HzrBR6K" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T09:07:11.233Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="IFiKvut4k3A_do3Pp6A0" version="14.1.1" type="github">
   <diagram id="rfBHo0WlHgLrZ6Vjn7Su" name="Page-1">
     <mxGraphModel dx="1186" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,6 +246,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405" y="1290" as="sourcePoint" />
             <mxPoint x="545" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JjA0xLamq4_Y50HzqTPM-79" value="产品功能验收，准备上线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1329" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JjA0xLamq4_Y50HzqTPM-80" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="570" y="1349" as="sourcePoint" />
+            <mxPoint x="280" y="1349" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
