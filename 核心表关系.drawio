@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T02:31:53.219Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Qe1Aaj0uv56VrkoYHaZv" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T07:12:41.538Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VIMc4EcrcXP1itcrvdZR" version="14.1.2" type="github">
   <diagram id="KWwgeZRh1fq1bChzX2f5" name="Page-1">
-    <mxGraphModel dx="1186" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,13 +94,13 @@
         <mxCell id="rOw8iKVTJf4IojkIjels-17" value="公司部门" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="500" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rOw8iKVTJf4IojkIjels-30" value="1:n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOw8iKVTJf4IojkIjels-18" target="rOw8iKVTJf4IojkIjels-17" edge="1">
+        <mxCell id="rOw8iKVTJf4IojkIjels-30" value="n:n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOw8iKVTJf4IojkIjels-18" target="rOw8iKVTJf4IojkIjels-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rOw8iKVTJf4IojkIjels-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rOw8iKVTJf4IojkIjels-18" target="rOw8iKVTJf4IojkIjels-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rOw8iKVTJf4IojkIjels-32" value="n:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rOw8iKVTJf4IojkIjels-31" vertex="1" connectable="0">
+        <mxCell id="rOw8iKVTJf4IojkIjels-32" value="n:n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rOw8iKVTJf4IojkIjels-31" vertex="1" connectable="0">
           <mxGeometry x="-0.05" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
