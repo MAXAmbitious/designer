@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T10:00:26.161Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="We4nOzGqwM5z_MoMNicF" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T10:07:39.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="n2RrDWo7-zc4HbE0afYS" version="14.1.2" type="github">
   <diagram id="t8NCIz4bVcPVeXpqCKI4" name="Page-1">
     <mxGraphModel dx="678" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,9 +92,9 @@
           <mxGeometry x="310" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8nQMXK6_oTZO91173ZuV-25" value="学员身份认证" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="480" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8nQMXK6_oTZO91173ZuV-30" value="" style="endArrow=classic;html=1;entryX=0.2;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="8nQMXK6_oTZO91173ZuV-25" edge="1">
+        <mxCell id="8nQMXK6_oTZO91173ZuV-30" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="8nQMXK6_oTZO91173ZuV-25" edge="1" source="8nQMXK6_oTZO91173ZuV-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="419" y="620" as="sourcePoint" />
             <mxPoint x="469" y="570" as="targetPoint" />
